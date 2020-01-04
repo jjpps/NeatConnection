@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+	<OutputType>dll</OutputType>
+	 <PackageId>NeatConnection</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>jjpps</Authors>    
+    <PackageDescription>Connection framewotk</PackageDescription>
+    <RepositoryUrl>https://github.com/jjpps/NeatConnection</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

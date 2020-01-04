@@ -48,7 +48,6 @@ namespace NeatConnection
             }
             catch (Exception)
             {
-
                 return false;
             }
             finally
